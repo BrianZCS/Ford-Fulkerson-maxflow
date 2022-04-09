@@ -7,3 +7,5 @@ edge line consists of a number indicating the source node, a number indicating t
 a capacity. The nodes are not listed separately, but are numbered {1 . . . n}.
 
 Your program should compute the maximum flow value from node 1 to node n in each given graph.
+
+I implements the wrapper class for Graph and Edge and improve the complexity from the Matrix version.
